@@ -4,13 +4,13 @@
     <head>
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
         <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-        <title>Importar TXT</title>
+        <title>Importar arquivo txt</title>
 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
     </head>
     <body>
-        <h1>Importar dados do arquivo TXT</h1>
+        <h1>Importar  arquivo txt</h1>
 
         <form method="POST" action="process.php" enctype="multipart/form-data">
             <label>Arquivo</label>
